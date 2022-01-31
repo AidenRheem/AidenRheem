@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming Full-Stack Web Applications
 - 🥇 2021 Congressional App Challenge Winner
 - 🌱 I’m currently learning JavaScript and Python
+
 <Contact Me>
 <summary>Want to ruin the surprise?</summary>
 <br>
