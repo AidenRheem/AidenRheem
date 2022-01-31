@@ -4,9 +4,10 @@
 - 🌱 I’m currently learning JavaScript and Python
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Contact Me</summary>
 <br>
-This is how you dropdown.
+Discord - Nedia#7850
+Email - aidenrheem@gmail.com
 </details>
 
 <!---
