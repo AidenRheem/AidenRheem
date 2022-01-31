@@ -6,8 +6,7 @@
 <details>
 <summary>Contact Me</summary>
 <br>
-Discord - Nedia#7850
-Email - aidenrheem@gmail.com
+Discord - Nedia#7850<br>Email - aidenrheem@gmail.com
 </details>
 
 <!---
