@@ -3,10 +3,10 @@
 - 🥇 2021 Congressional App Challenge Winner
 - 🌱 I’m currently learning JavaScript and Python
 
-<Contact Me>
-<summary>Want to ruin the surprise?</summary>
+<details>
+<summary>How do I dropdown?</summary>
 <br>
-Well, you asked for it!
+This is how you dropdown.
 </details>
 
 <!---
