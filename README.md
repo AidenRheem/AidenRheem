@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AidenRheem
-- 👀 I’m interested in coding Discord Bots and Full-Stack Web Applications
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me - Discord: nedia#0001
+- 👋 Hi, I’m @AidenRheem, developer of [Spot](https://spotapp.repl.co)
+- 👀 I’m interested in programming Full-Stack Web Applications
+- 🌱 I’m currently learning JavaScript and Python
+- 📫 How to reach me - Discord: Nedia#0001
 
 <!---
 AidenRheem/AidenRheem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
