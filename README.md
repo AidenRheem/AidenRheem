@@ -1,15 +1,26 @@
-- 👋 Hi, I’m @AidenRheem, developer of [Spot](https://spotapp.repl.co)
-- 👀 I’m interested in programming Full-Stack Web Applications
-- 🥇 2021 Congressional App Challenge Winner
-- 🌱 I’m currently learning JavaScript and Python
+   ![](https://komarev.com/ghpvc/?username=7qo&label=PROFILE+VIEWS)
 
-<details>
-<summary>Contact Me</summary>
-<br>
-Discord - Nedia#7850<br>Email - aidenrheem@gmail.com
-</details>
+```py
+from Github import ReadMe
 
-<!---
-AidenRheem/AidenRheem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+class mushroom(ReadMe):
+  "/mushroom/mushroom/README.md"
+  
+  def __init__(self):
+    self.username = "nell"
+    self.contact = {
+      "Discord": "mushroom#7850"
+     }
+     self.projects = {
+      "public": {
+        "total": 0,
+        "location": "github.com/mushroom?tab=repositories"
+      },
+      "private": {
+        "total": 2,
+        "location": "discord.gg/incognito"
+    }
+    self.os = "Windows"
+
+```
