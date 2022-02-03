@@ -1,5 +1,3 @@
-   ![](https://komarev.com/ghpvc/?username=7qo&label=PROFILE+VIEWS)
-
 ```py
 from Github import ReadMe
 
