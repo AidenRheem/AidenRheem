@@ -1,5 +1,5 @@
 ```js
-from Github import ReadMe
+from Github import README
 
 
 class AidenRheem(README):
@@ -12,7 +12,7 @@ class AidenRheem(README):
      }
      self.projects = {
       "public": {
-        "total": 0,
+        "total": 1,
         "location": "github.com/mushroom?tab=repositories"
     }
     self.os = "macOS"
