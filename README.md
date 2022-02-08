@@ -14,17 +14,13 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AidenRheem)
 
-<br />
+<br/>
 
-hi, i'm [Aiden Rheem](https://aidenrheem.repl.co), but i'm known on the internet as cream or nedia. a passionate self-taught full stack web developer and a discord bot developer from the united states. my passion for software and programming lies with dreaming about ideas that dont exist, or how i could make an existing software better.
+hi, i'm [Aiden Rheem](https://aidenrheem.repl.co), but i'm known on the internet as cream or nedia. a passionate self-taught full stack web developer and a discord bot developer from the united states. my passion for software and programming lies with dreaming about ideas that dont exist, or how i could make an existing software better. aside from web and discord bot developing, i love to play video games such as VALORANT, and have an intrest in aviation.
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 ask me about anything, i am happy to help;
-
-
-**languages and tools:**  
+**languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -33,26 +29,25 @@ hi, i'm [Aiden Rheem](https://aidenrheem.repl.co), but i'm known on the internet
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+<!--START_SECTION-->
 ```text
-JavaScript   4 hrs 7 mins    █████████████████████▓░░░   87.18 % 
-XML          20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Other        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+JavaScript   4 hrs 7 mins    █████████████████████▓░░░
+Python       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░ 
 ```
-<!--END_SECTION:waka-->
+<!--END_SECTION-->
 
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+🚧 **projects i'm working on**
+<br>
+🏆  Spot | Free and Secure Browser Video Calls
+<br>
+🌸  FlyWare | Live Flight Tracking
+<br>
+⏳  Flight Weather Discord Bot
 
 
-📈 my github stats
+📈 **my github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AidenRheem&show_icons=true&theme=gotham" alt="AidenRheem" />
