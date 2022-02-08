@@ -39,15 +39,13 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION-->
 
 
-🚧 **projects i'm working on**
+🚧 **projects i'm working on:**
 <br>
-🏆  Spot | Free and Secure Browser Video Calls
+🏆 Spot | Free and Secure Browser Video Calls - 2021 Congressional App Challenge Winner
 <br>
-🌸  FlyWare | Live Flight Tracking
-<br>
-⏳  Flight Weather Discord Bot
+✈ FlyWare | Live Flight Tracking
 
 
-📈 **my github stats**
+📈 **my github stats:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AidenRheem&show_icons=true&theme=gotham" alt="AidenRheem" />
