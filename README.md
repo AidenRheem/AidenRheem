@@ -1,12 +1,12 @@
-```py
+```js
 from Github import ReadMe
 
 
-class mushroom(ReadMe):
-  "/mushroom/mushroom/README.md"
+class AidenRheem(README):
+  "/Aiden/Rheem/README.md"
   
   def __init__(self):
-    self.username = "nell"
+    self.username = "mushroom"
     self.contact = {
       "Discord": "mushroom#7850"
      }
@@ -14,11 +14,8 @@ class mushroom(ReadMe):
       "public": {
         "total": 0,
         "location": "github.com/mushroom?tab=repositories"
-      },
-      "private": {
-        "total": 2,
-        "location": "discord.gg/incognito"
     }
+    self.os = "macOS"
     self.os = "Windows"
 
 ```
