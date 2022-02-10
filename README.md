@@ -1,15 +1,15 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/">
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com">
+  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://open.spotify.com">
+  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AidenRheem)
@@ -32,9 +32,9 @@ hi, i'm [Aiden Rheem](https://aidenrheem.repl.co), but i'm known on the internet
 <!--START_SECTION-->
 ```text
 JavaScript   4 hrs 7 mins    █████████████████████▓░░░
-Python       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░ 
+Python       12 mins         ███████░░░░░░░░░░░░░░░░░░
+HTML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░
+CSS          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░ 
 ```
 <!--END_SECTION-->
 
@@ -43,7 +43,7 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 <br>
 🏆 Spot | Free and Secure Browser Video Calls - 2021 Congressional App Challenge Winner
 <br>
-✈ FlyWare | Live Flight Tracking
+✈️ FlyWare | Live Flight Tracking
 
 
 📈 **my github stats:**
