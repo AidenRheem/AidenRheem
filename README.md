@@ -1,23 +1,10 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com">
-  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://komarev.com/ghpvc/?username=AidenRheem&style=for-the-badge)
 
-
 <br/>
 
-hi, i'm [Aiden Rheem](https://aidenrheem.repl.co), but i'm known on the internet as cream or nedia. a passionate self-taught full stack web developer and a discord bot developer from the united states. my passion for software and programming lies with dreaming about ideas that dont exist, or how i could make an existing software better. aside from web and discord bot developing, i love to play video games such as VALORANT, and have an intrest in aviation.
+hi, i'm [Aiden Rheem](https://aidenrheem.repl.co), a passionate self-taught full stack web developer and a discord bot developer from the united states. my passion for software and programming lies with dreaming about ideas that dont exist, or how i could make an existing software better. aside from web and discord bot developing, i love to play video games such as VALORANT, and have an intrest in aviation.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
 
